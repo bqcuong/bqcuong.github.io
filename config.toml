@@ -1,0 +1,41 @@
+baseURL = "http://cuong.buiquang.com/"
+languageCode = "en-us"
+title = "Quang Cuong Bui"
+theme = "hf"
+paginate = 5
+
+[params]
+  contentTypeName = "blog"
+  defaultThem = "dark"
+  toc = false
+
+[languages]
+  [languages.en]
+    title = "Quang Cuong Bui"
+    subtitle = "Software Vulnerability Fixer"
+    keyword = ""
+    copyright = "Quang Cuong Bui"
+    menuMore = "Show more"
+    writtenBy = "Written By"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer Posts"
+    olderPosts = "Older Posts"
+    minuteReadingTime = "min read"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
+
+    [languages.en.params.logo]
+      logoText = "Quang Cuong Bui"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+    [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog"
+
