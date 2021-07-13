@@ -6,15 +6,15 @@ author="bqcuong"
 
 Chào mừng bạn đến với blog cá nhân của mình ^^!
 
-Mình là **Bùi Quang Cường**
+Mình là **Bùi Quang Cường**.
 
-Mình sinh ra và lớn lên ở **[Anh Sơn - Miền Tây Xứ Nghệ](https://www.youtube.com/watch?v=aEQ8Bn6TUdQ) ^O^**
+Mình sinh ra và lớn lên ở **[Anh Sơn - Miền Tây Xứ Nghệ](https://www.youtube.com/watch?v=aEQ8Bn6TUdQ) ^O^**.
 
-Hiện đang theo học _CNTT_ tại **UET - VNU**
+Hiện nay mình là PhD Student với topic về Software Security tại **TU Hamburg**, Đức.
 
-Email: bqcuong2212@gmail.com
+Trước đó, mình theo học _CNTT_ và nhận bằng cử nhân + thạc sĩ tại **UET - VNU**.
 
-Mình có đam mêm CNTT từ lúc khá nhỏ. Đây là tiểu sử về con đường CNTT của mình:
+Mình có đam mê CNTT từ lúc khá nhỏ. Đây là tiểu sử về con đường CNTT của mình:
 
   * Bắt đầu năm lớp 8, chỗ mình có kết nối Internet. Lúc đầu mình cũng _wander_ lung tung vớ vẩn trên đó. Sau đấy mình bắt đầu tìm hiểu cách tạo nên các website và đầu tiên đó là cách tạo mấy cái forum. Khởi đầu đó là forumvi, đây là dịch vụ cho phép ta dễ dàng tạo ra 1 diễn đàn cho lớp, dư âm của cái này vẫn còn cho đến năm 2011, mình tạo một cái cho lớp cấp 3 nhưng _éo_ có đứa nào thèm vào :(( (giờ nó vẫn còn live: k35a.forumvi.com), mình ngu thêm tập 2 nữa là bỏ tiền 60k thẻ điện thoại Viettel để mua 1 cái skin vớ vẩn từ thằng nào đó, sau đấy về _éo_ biết custom làm sao cả +_+
 
@@ -26,16 +26,16 @@ Mình có đam mêm CNTT từ lúc khá nhỏ. Đây là tiểu sử về con đ
 
   * Năm lớp 11, bình thường thôi, mình đang tập trung học môn Hóa, vẫn được giải nhì Tin cấp trường nhé :v
 
-  * Năm lớp 12, quả thực là một năm khó khăn, mình vừa phải thi HSG Tỉnh, vừa phải ôn thi ĐH. Cày phê lắm :3 Đầu tiên mình chỉ định thi mỗi Hóa thôi, nhưng sau đấy cô dạy tin cứ lôi kéo rủ rê lấy lí do vì trường từ trước đến nay chưa từng ai có giải Tỉnh về môn Tin cả :v, cuối cùng mình phải thi cả 2 môn tin và hóa. Kết quả là tạch cả 2 :(( Tin mình được 9 trong khi 10 điểm là đỗ rồi :3 (thang 20 nhé). Giá như lần đấy mình chỉ chọn mỗi Hóa thì có cơ may là được giải rồi, sức mình đã yếu còn thích ra gió, đòi cân cả 2 môn chứ =(( Nói về chuyện ôn thi Tin, nói thật chứ mình cảm thấy vô lực, giáo viên có trình độ giảng dạy ở lớp rất tốt luôn, nhưng mà khả năng ôn thi cho việc thi HSG thì cô chưa từng ôn thi HSG bao giờ, các năm trước thì có thầy ôn nhưng năm đấy ông chuyển _mịa_ xuống trường ở thị trấn _cmr_ -_- Mình xem qua các đề HSG tỉnh thấy nào là đệ quy quay lui, nào là quy hoạch động,... (lên ĐH mình vẫn sợ đống này @@)trong khi cô toàn ôn cho mình các dạng bài kiểu "Tìm các số có 3 chữ số xyz sao cho x^2 + y^2 + z^2 = 9", với mấy bài lặt vặt về xâu kí tự,... đến mà nản, thời kì đấy hầu như mình phải tự học, tự đọc tài liệu, cũng không muốn làm cô tự ái. May có quyển Giải thuật & lập trình của thầy LMH, nhờ nó mà mình cũng biết làm mấy bài "chữa cháy" trong đề thi HSG. Có một cái tiếc là năm đấy mình không biết đến kiểu viết chương trình để chạy ngon với mọi loại test cases (về độ lớn phạm vi test case hoặc các test case đặc biệt), mình chỉ viết theo bản năng làm sao mà chạy đúng 1-2 cái test case đơn giản trong đề bản cho mẫu. Nếu mà mình có học qua cái này có khi mình đã có giải mang về rồi :'( Nhưng may mắn, ngay khóa sau, đã có một chú đoạt giải "khó khăn" môn Tin về cho trường. Thật tự hào :v :v Trong cùng năm đấy, như mình đã nói, mình phải thi ĐH, với cái quyết tâm vào UET có từ đầu năm lớp 9 (đến năm 12 là 4 năm), mình đã có nhiều lúc lung lay quyết tâm nhưng không hiểu sao mình vẫn đăng ký vào UET. Cái đêm biết điểm ĐH gần như là mình thức đến sáng. Mường tượng cái cuộc sống tương lai ở Thành phố nó tươi đẹp như thế nào nhưng mà sự thật thì khác xa với mơ lắm :v :v
+  * Năm lớp 12, quả thực là một năm khó khăn, mình vừa phải thi HSG Tỉnh, vừa phải ôn thi ĐH. Cày phê lắm :3 Đầu tiên mình chỉ định thi mỗi Hóa thôi, nhưng sau đấy cô dạy tin cứ lôi kéo rủ rê lấy lí do vì trường từ trước đến nay chưa từng ai có giải Tỉnh về môn Tin cả :v, cuối cùng mình phải thi cả 2 môn tin và hóa. Kết quả là tạch cả 2 :(( Tin mình được 9 trong khi 10 điểm là đỗ rồi :3 (thang 20 nhé). Giá như lần đấy mình chỉ chọn mỗi Hóa thì có cơ may là được giải rồi, sức mình đã yếu còn thích ra gió, đòi cân cả 2 môn chứ =((. Nói về môn tin, có một cái tiếc là năm đấy mình không biết đến kiểu viết chương trình để chạy ngon với mọi loại test cases (về độ lớn phạm vi test case hoặc các test case đặc biệt), mình chỉ viết theo bản năng làm sao mà chạy đúng 1-2 cái test case đơn giản trong đề bản cho mẫu. Nếu mà mình có học qua cái này có khi mình đã có giải mang về rồi :'( Nhưng may mắn, ngay khóa sau, đã có một chú đoạt giải "khó khăn" môn Tin về cho trường. Thật tự hào :v :v Trong cùng năm đấy, như mình đã nói, mình phải thi ĐH, với cái quyết tâm vào UET có từ đầu năm lớp 9 (đến năm 12 là 4 năm), mình đã có nhiều lúc lung lay quyết tâm nhưng không hiểu sao mình vẫn đăng ký vào UET. Cái đêm biết điểm ĐH gần như là mình thức đến sáng. Mường tượng cái cuộc sống tương lai ở Thành phố nó tươi đẹp như thế nào nhưng mà sự thật thì khác xa với mơ lắm :v :v
 
   * Vào ĐH, quả thực thì quyết định vào UET là quyết định sáng suốt nhất của mình từ nhỏ đến giờ. Được học tập ở một môi trường tốt, là trường ĐH về CNTT mạnh hàng đầu VN (không nói quá đâu). Xung quanh trong lớp toàn thấy siêu nhân, chưa nói đến là toàn trường, mình thì đang lẹt đẹt xách dép chạy theo bọn nó đây :'( Lâu lâu, đêm khuya xem lại tiểu sử, thành tích "khủng" của mấy ông thầy mà chỉ có ước ao được một phần như thế :'( Hiện tại mình đang học năm 2 và đang nỗ lực để có được một cái gì đó "bé nhỏ" đây :D
 
- Về blog, đây là blog được làm dựa trên Bootstrap, mã nguồn 100% là các file HTML tĩnh được build bởi [JBake](http://jbake.org). Mình thích dùng vì thấy nó thích hợp cho Dev, mình phải tự viết content bài viết bằng Markdown (hoặc...) rồi dùng JBake để build ra các file html. Luyện viết post bằng Markdown cũng tốt, mà mình thấy cái này cũng dễ phát triển thêm các chức năng tùy biến, các module khác, sau này có thời gian mình sẽ làm, cũng hay ho phết! :D
+  * TODO: Viết tiếp phần học lên Master + xin hb PhD
 
- Thực tế thì mình cũng đã từng làm blog, nhưng mình toàn đọc các post bằng Tiếng Anh rồi dịch lại. Thực tế thì mình chưa hiểu sâu lắm về nó nên lúc dịch ngu ngu thế nào ý, đến lúc mình đọc lại mình cũng _éo_ hiểu nó là gì T_T Thế nên từ giờ nếu mình có post cái gì thì đấy phải là những post từ "xương máu" mà ra, là những cái mà mình tìm tòi và thấy "hay hay" :v
+Coi như phần /about này là bài post đầu tiên của blog này đi!
 
- Coi như phần /about này là bài post đầu tiên của blog này đi!
-
- Mar 16, 2016
+Mar 16, 2016.
 
  **BQC**
+
+*Updated on Jul 13, 2021.*
