@@ -1,6 +1,6 @@
 baseURL = "https://cuong.buiquang.com/"
 languageCode = "en-us"
-title = "Quang Cuong Bui"
+title = "BQC"
 theme = "hf"
 paginate = 5
 
@@ -11,10 +11,10 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Quang Cuong Bui"
+    title = "BQC"
     subtitle = "Software Vulnerability Fixer"
     keyword = ""
-    copyright = "Quang Cuong Bui"
+    copyright = "© 2021 Cuong Bui Quang"
     menuMore = "Show more"
     writtenBy = "Written By"
     readMore = "Read more"
@@ -26,7 +26,7 @@ paginate = 5
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "Quang Cuong Bui"
+      logoText = "BQC"
       logoHomeLink = "/"
 
     [languages.en.menu]
