@@ -1,7 +1,5 @@
 +++
 title="About me"
-date=""
-author="bqcuong"
 +++
 
 > Welcome to my Website ^^!
