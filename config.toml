@@ -38,6 +38,10 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "todo"
+        name = "TODO"
+        url = "/todo"
     [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
