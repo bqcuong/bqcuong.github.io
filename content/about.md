@@ -1,6 +1,6 @@
 +++
 title="About me"
-date="2016-03-16"
+date=""
 author="bqcuong"
 +++
 
