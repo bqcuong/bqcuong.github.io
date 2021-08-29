@@ -2,6 +2,8 @@
 title="Bún Riêu Cua"
 date="2016-03-31"
 author="bqcuong"
+categories=[food]
+tags=[Vietnamese]
 +++
 
 >Bữa nay mình viết về loại bún _lần đầu tiên trong đời_ được ăn :3 **Bún Riêu Cua**
