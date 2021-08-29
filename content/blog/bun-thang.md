@@ -2,6 +2,8 @@
 title="Bún thang Hà Nội"
 date="2016-03-19"
 author="bqcuong"
+categories=[food]
+tags=[Vietnamese]
 +++
 
 Vì đây là loại bún mình ăn gần với lúc mình quyết định viết blog nhất nên mình sẽ nói về nó trước.  
