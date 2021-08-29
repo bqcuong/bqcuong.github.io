@@ -6,13 +6,13 @@ paginate = 5
 
 [params]
   contentTypeName = "blog"
-  defaultThem = "dark"
+  defaultThem = "light"
   toc = false
 
 [languages]
   [languages.en]
     title = "BQC"
-    subtitle = "Software Vulnerability Fixer"
+    subtitle = "Software Vulnerability Gossip"
     keyword = ""
     copyright = "© 2021 Cuong Bui Quang"
     menuMore = "Show more"
