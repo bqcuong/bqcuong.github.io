@@ -4,6 +4,10 @@ title = "BQC"
 theme = "hf"
 paginate = 5
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 [params]
   contentTypeName = "blog"
   defaultThem = "light"
