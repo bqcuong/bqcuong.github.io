@@ -1,5 +1,5 @@
 +++
-title="My TODOs"
+title="TODO"
 +++
 
 The following is my bucket list for now.
