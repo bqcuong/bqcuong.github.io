@@ -10,7 +10,7 @@ paginate = 5
 
 [params]
   contentTypeName = "blog"
-  defaultThem = "light"
+  defaultTheme = "light"
   toc = false
 
 [languages]
