@@ -46,7 +46,7 @@ Xem thêm video hướng dẫn phát âm bảng chữ cái:
 |-|-|-|-|
 |-|-|-|-|
 
-|a/aa/ah|e/ee/eh|i/ih/ie|o/oo/oh|u/uh|ä/äh|ö/öh|ü/üh|
+|a/ aa/ ah|e/ ee/ eh|i/ ih/ ie|o/ oo/ oh|u/uh|ä/äh|ö/öh|ü/üh|
 |-|-|-|-|-|-|-|-|
 |-|-|-|-|-|-|-|-|
 
