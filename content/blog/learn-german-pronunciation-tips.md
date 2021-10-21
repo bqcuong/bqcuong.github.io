@@ -1,5 +1,5 @@
 +++
-title="Tricks phát âm tiếng Đức"
+title="Tips phát âm Tiếng Đức"
 date="2021-10-18"
 author="bqcuong"
 categories=["german"]
