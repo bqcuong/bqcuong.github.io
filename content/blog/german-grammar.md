@@ -4,6 +4,7 @@ date="2021-10-21"
 author="bqcuong"
 categories=["german"]
 tags=["Learn-German"]
+toc=true
 +++
 
 ## Verb
