@@ -5,6 +5,7 @@ title="TODO"
 The following is my bucket list for side tasks/projects.
 
 ### Todo
+- [ ] 2022: Learn Haskell
 - [ ] 05/2022: PA CMU course
 - [ ] 03/2022: Komplett Deutsch A1.1
   - I have to learn it by myself, the school doesn't offer A1.1, so sad :(
