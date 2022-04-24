@@ -1,4 +1,4 @@
 <audio hidden>
 <source src="{{.Get "audio-src" }}" type="audio/mpeg">
 </audio>
-<a href="javascript:void(0);" class="audio-icon"><i class="fa-regular fa-circle-play"></i></a>
+<a href="javascript:void(0);" class="audio-icon">{{ partial "svg.html" (dict "context" . "name" "play") }}</a>

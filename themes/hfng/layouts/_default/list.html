@@ -2,8 +2,6 @@
     {{ $paginator := .Paginate .Data.Pages }}
     
     <main class="posts">
-        <h1>{{ .Title }}</h1>
-
         {{ if .Content }}
             <div class="content">{{ .Content }}</div>
         {{ end }}

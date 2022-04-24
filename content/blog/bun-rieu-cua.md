@@ -21,7 +21,7 @@ Bây giờ sẽ nói đến chủ đề chính, lúc mình bước thêm vài b�
 
 Chờ một lúc mình bà chủ quán đưa ra cho mình tô bún riêu của _(như hình dưới)_ nhìn qua thấy chỉ có mỗi thịt cua và thịt sườn :3 wth con riêu của cháu đâu rồi ạ @@ sao chỉ thấy mỗi cua và thịt sườn thôi, con riêu của cháu đâu rồi :(( nghĩ trong bụng như thế nhưng mà mình đói bụng cố gắng chụp xong cái ảnh rồi ăn luôn :3
 
-{{< figure src="/media/images/bun-rieu-cua.jpg" position="center" style="border-radius: 8px;" caption="Bún Riêu Cua + Sườn Sụn" captionPosition="right" captionStyle="color: red;" >}}
+{{< figure src="/media/images/bun-rieu-cua.jpg" position="center" caption="Bún Riêu Cua + Sườn Sụn" captionPosition="right" captionStyle="color: red;" >}}
 
 >Riêu cua chính là phần thịt gạch nằm trong mai của con cua chứ Riêu không phải là một loại con hoặc loại thức ăn gì khác :3
 

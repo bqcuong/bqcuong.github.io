@@ -14,8 +14,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "Roboto",
-    "Segoe UI", Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;
   font-display: auto;
   font-size: 1rem;
   line-height: 1.54;
@@ -69,12 +68,11 @@ h6 {
 }
 
 h1 {
-  font-size: 2.625rem;
+  font-size: 2rem;
 }
 
 h2 {
-  font-size: 1.625rem;
-  margin-top: 2.5em;
+  font-size: 1.5rem;
 }
 
 h3 {
@@ -87,7 +85,7 @@ h4 {
 
 @media #{$media-size-phone} {
   h1 {
-    font-size: 2rem;
+    font-size: 1.6rem;
   }
 
   h2 {
@@ -186,27 +184,6 @@ figure {
     &.right {
       text-align: right;
     }
-  }
-}
-
-em, i, strong {
-  // Default
-  color: $light-color-variant;
-
-  @media (prefers-color-scheme: dark) {
-    color: $dark-color-variant;
-  }
-
-  @media (prefers-color-scheme: light) {
-    color: $light-color-variant;
-  }
-
-  [data-theme=dark] & {
-    color: white;
-  }
-
-  [data-theme=light] & {
-    color: black;
   }
 }
 

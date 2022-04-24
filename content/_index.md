@@ -10,5 +10,4 @@ I am **Bùi Quang Cường** (IPA pronunciation: **/ɓujᴬ² kwaːŋᴬ¹ kɯɤ
 
 Currently, I am a Ph.D. student in the [Institute of Software Security](https://www.tuhh.de/softsec) at [TU Hamburg](https://www.tuhh.de) under the supervision of [Prof. Riccardo Scandariato](https://scandariato.org). My research topic is about **detecting and fixing software vulnerabilities**. Before, I obtained my MSc. degree in Computer Science and my BSc. degree in Information Technology, both at [UET - VNU](https://uet.vnu.edu.vn).
 
-{{<fa-script>}}
 {{<inline-audio-script>}}
