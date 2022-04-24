@@ -1,7 +1,7 @@
 baseURL = "https://cuong.buiquang.com/"
 languageCode = "en-us"
 title = "BUI Quang Cuong"
-theme = "hf"
+theme = "hfng"
 paginate = 5
 
 [taxonomies]
