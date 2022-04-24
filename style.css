@@ -35,6 +35,7 @@
 
 .contact-icons a {
 	margin-left: 1px;
+	color: var(--color) !important;
 }
 
 .homepage .post {
