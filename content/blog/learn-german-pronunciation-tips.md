@@ -3,7 +3,7 @@ title="Tips phát âm Tiếng Đức"
 date="2021-10-18"
 author="bqcuong"
 categories=["german"]
-tags=["Learn-German"]
+tags=["Learn-German", "Vietnamese"]
 +++
 
 >Để thành thạo sử dụng một ngôn ngữ trong giao tiếp, phát âm là một trong những thứ quan trọng nhất cần đạt được đầu tiên! Lúc học tiếng Anh thời phổ thông, học sinh chỉ được học về ngữ pháp là chủ yếu (thời mình học) do các hạn chế về cơ sở vật chất cũng như môi trường lúc đó. Mình còn nhớ như in năm cấp 2, mình đi thi HSG tiếng Anh gặp trúng cái bài tìm từ có cách phát âm khác với các từ còn lại. Mình như chết sững vì hầu như rất ít khi được luyện qua, chủ yếu mình cày ngữ pháp như mấy cái bài viết lại câu, tìm lỗi sai, nối câu bằng mệnh đề quan hệ,... Cái từ mình nhớ mãi từ lúc đó đến bây giờ là **determine**, từ này nhìn qua tưởng phát âm là **đe-tờ-mai** hoặc **đi-tờ-mai** nhưng phiên âm của nó chính xác là **[dɪˈtɜːmɪn]** (damn English!!). Xác định phát âm trong tiếng Anh quả là một thứ gì đấy cần ghi nhớ và luyện tập rất nhiều, có quá nhiều trường hợp ngoại lệ. Có khi không bao giờ nhớ được hết luôn ấy. Từ đó mình cũng từ bỏ nhớ cách phát âm của tiếng Anh, mà cứ đến đâu gặp từ nào nói nhiều lần thì tự nó nhớ. Chính vì thế, cho đến bây giờ phát âm tiếng Anh của mình còn sai tè le rất nhiều.

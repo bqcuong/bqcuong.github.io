@@ -25,7 +25,7 @@ Chờ một lúc mình bà chủ quán đưa ra cho mình tô bún riêu của _
 <hr/>
 <div class="row">
 	<div class="col-md-6">
-		<img class="thumbnail" src="/images/2016/03/2016-03-31 11.45.54.jpg"></img>
+		<img class="thumbnail" src="/media/images/2016/03/2016-03-31 11.45.54.jpg"></img>
 		<div class="caption"><em>Bún Riêu Cua + Sườn Sụn</em></div>
 	</div>
 </div>

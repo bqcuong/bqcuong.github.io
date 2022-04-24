@@ -1,0 +1,8 @@
+<script type="text/javascript">
+	let icons = document.getElementsByClassName("audio-icon");
+	for (let i = 0; i < icons.length; i++) {
+		let icon = icons[i];
+		let audio = icon.previousElementSibling;
+		icon.addEventListener("click", () => audio.play());
+	}
+</script>
