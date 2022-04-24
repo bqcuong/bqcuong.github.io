@@ -2,6 +2,7 @@
 title="Bún thang Hà Nội"
 date="2016-03-19"
 author="bqcuong"
+cover="/media/images/bun-thang.jpg"
 categories=["food"]
 tags=["Vietnamese"]
 +++

@@ -1,6 +1,6 @@
 baseURL = "https://cuong.buiquang.com/"
 languageCode = "en-us"
-title = "Cuong Bui Quang"
+title = "BUI Quang Cuong"
 theme = "hf"
 paginate = 5
 
@@ -15,10 +15,10 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Cuong Bui Quang"
+    title = "BUI Quang Cuong"
     subtitle = "Software Vulnerability Gossip"
     keyword = ""
-    copyright = "© 2022 Cuong Bui Quang"
+    copyright = ""
     menuMore = "Show more"
     writtenBy = "Written By"
     readMore = "Read more"
@@ -30,7 +30,7 @@ paginate = 5
     dateFormatList = "02/01/2006"
 
     [languages.en.params.logo]
-      logoText = "Cuong Bui Quang"
+      logoText = "[root@bqc]#"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -40,6 +40,6 @@ paginate = 5
         url = "/todo"
     [[languages.en.menu.main]]
         identifier = "blog"
-        name = "Blog"
+        name = "BLOG"
         url = "/blog"
 

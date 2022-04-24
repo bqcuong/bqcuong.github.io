@@ -1,0 +1,56 @@
+.portfolio {
+	display: flex;
+	justify-content: center;
+}
+
+.avatar {
+	display: flex;
+	justify-content: center;
+}
+
+.avatar img {
+	max-width: 240px;
+	border-radius: 0.3rem;
+}
+
+.avatar-section {
+	text-align: center;
+}
+
+.avatar-section h1 {
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
+.aka-name {
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.contact-icons {
+	margin-top: 5px;
+	margin-bottom: 20px;
+	font-size: 1.4rem;
+}
+
+.contact-icons a {
+	margin-left: 1px;
+}
+
+.homepage .post {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.homepage .post-content {
+	margin-top: 0;
+}
+
+.post-content a {
+  color: #fe5186;
+  text-decoration: none;
+}
+
+.post-content a:hover {
+	text-decoration: underline;
+}

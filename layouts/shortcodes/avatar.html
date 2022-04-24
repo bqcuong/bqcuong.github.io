@@ -1,0 +1,24 @@
+{{ if .Get "src" }}
+<div class="portfolio">
+	<div class="avatar-section">
+		<h1>Bui Quang Cuong
+			<sup>
+				<div class="contact-icons" style="display:inline">
+					<a href="mailto:cuong.bui@tuhh.de"><i class="fa-solid fa-square-envelope"></i></a>
+					<a href="https://github.com/bqcuong" target="_blank"><i class="fa-brands fa-github"></i></a>
+					<a href="https://linkedin.com/in/bqcuong" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+				</div>
+			</sup>
+		</h1>
+		<p class="aka-name">
+			<em>a.k.a. <strong>Quang-Cuong Bui</strong></em>
+		</p>
+		<div class="avatar">
+			<img src="{{ .Get "src" | safeURL }}"/>
+		</div>
+		<p>Ph.D. student at <a href="https://www.tuhh.de/softsec"><strong>E22 - TUHH</strong></a>.
+			
+		</p>
+	</div>
+</div>
+{{ end }}

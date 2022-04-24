@@ -14,7 +14,7 @@
   }
 
   &-meta {
-    font-size: 1rem;
+    font-size: 0.938rem;
     margin-bottom: 10px;
 
     @media (--phone) {
@@ -23,11 +23,11 @@
   }
 
   &-title {
-    font-size: 2.625rem;
+    font-size: 2rem;
     margin: 0 0 20px;
 
     @media (--phone) {
-      font-size: 2rem;
+      font-size: 1.6rem;
     }
 
     a {
@@ -38,7 +38,7 @@
   &-tags {
     display: block;
     margin-bottom: 20px;
-    font-size: 1rem;
+    font-size: 0.938rem;
     opacity: .5;
 
     a {

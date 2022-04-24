@@ -2,6 +2,7 @@
 title="Bún Riêu Cua"
 date="2016-03-31"
 author="bqcuong"
+cover="/media/images/bun-rieu-cua.jpg"
 categories=["food"]
 tags=["Vietnamese"]
 +++

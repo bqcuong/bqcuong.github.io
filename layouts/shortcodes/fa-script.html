@@ -1,0 +1,4 @@
+{{ if not (.Page.Scratch.Get "fontawesomeLoaded") }}
+    {{ .Page.Scratch.Set "fontawesomeLoaded" true }}
+    <script defer src="/fa/js/all.js"></script>
+{{ end }}

@@ -8,9 +8,11 @@
   {{ end }}
   {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" $contentTypeName) }}
 
-<div class="post">
-	<div class="post-content">
-		{{ .Content }}
-	</div>
+<div class="homepage">
+  <div class="post">
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </div>
 </div>
 {{ end }}
