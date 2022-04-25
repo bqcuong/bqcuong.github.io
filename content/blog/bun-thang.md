@@ -2,15 +2,14 @@
 title="Bún thang Hà Nội"
 date="2016-03-19"
 author="bqcuong"
-cover="/media/images/bun-thang.jpg"
-categories=["food"]
+categories=["Food"]
 tags=["Vietnamese"]
 +++
 
 Vì đây là loại bún mình ăn gần với lúc mình quyết định viết blog nhất nên mình sẽ nói về nó trước.  
 >Bún Thang khác biệt với tất cả các loại bún còn lại!
 
-{{< figure src="/media/images/bun-thang.jpg" caption="Bát bún thang thơm phức" position="center" captionPosition="right" captionStyle="color: red;" >}}
+{{< figure src="/media/images/bun-thang.jpg" caption="Bát bún thang thơm phức." position="center" >}}
 
 Nước dùng của loại bún này có vị rất khác so với tất cả các loại bún khác mà mình đã từng ăn, có vị hắc hắc theo mình là thế -.- Lần đầu tiên mình ăn loại bún này là ở Hàng Than. Lần đấy vì mình đi chơi, đi qua thấy tên khá lạ, mà cũng tầm trưa đói bụng rồi nên nhảy vào :D Cảm nhận đầu tiên của mình về loại bún mình là sự khác biệt của nước dùng như trên, và thêm nữa đó là sự _công phu_,  _tinh tế_ trong tô bún. Mình nhìn qua thấy nổi bật có thịt gà là chính, ngoài ra có trứng cuộn rán, chả giò, tớt dừa,... được _thái cực mỏng thành sợi_ rải đều trên tô bún. Trước đây mình không nghĩ là người ta có thể thái mỏng trứng đến như thế này đâu @@ Qua tìm hiểu thì mới biết bún Thang có tới gần **20 nguyên liệu** và cái vị hắc hắc kia là do **tinh dầu Cà Cuống** hoặc _một chất hóa học nào đó_ mà ra :3
 Lần đấy ăn xong cũng thấy ngon bình thường thôi, chắc do mình không hợp nước dùng của nó.
