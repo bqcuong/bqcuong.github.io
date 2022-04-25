@@ -2,7 +2,7 @@
 title="Home page"
 +++
 
-{{< avatar src="/media/images/bqc.jpeg" >}}
+{{< bqc-portfolio >}}
 
 ---
 ## About me

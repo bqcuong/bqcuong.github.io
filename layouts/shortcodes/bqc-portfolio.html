@@ -1,4 +1,3 @@
-{{ if .Get "src" }}
 <div class="portfolio">
 	<div class="avatar-section">
 		<h1>Bui Quang Cuong
@@ -11,12 +10,10 @@
 			</sup>
 		</h1>
 		<div class="avatar">
-			<img src="{{ .Get "src" | safeURL }}"/>
+			<img src="/media/images/bqc.jpeg"/>
 		</div>
 		<p class="subtext">
 			<em>a.k.a. <strong>Quang-Cuong Bui</strong></em>.<br/>Ph.D. student at <a href="https://www.tuhh.de/softsec">E22 - TUHH</a>.
-			
 		</p>
 	</div>
 </div>
-{{ end }}
