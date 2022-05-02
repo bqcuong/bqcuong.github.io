@@ -117,7 +117,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Customized from Hello Friend NG by <a href=\"https://github.com/rhazdon\">rhazdon</a>"
+      "Customized theme from <a href=\"https://github.com/rhazdon\">rhazdon</a>"
     ]
 
   # Colors for favicons
