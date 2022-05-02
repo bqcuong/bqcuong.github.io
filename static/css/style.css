@@ -1,3 +1,4 @@
+/*========Portfolio========*/
 .portfolio {
 	display: flex;
 	justify-content: center;
@@ -9,7 +10,7 @@
 }
 
 .avatar img {
-	max-width: 200px;
+	max-width: 250px;
 }
 
 .avatar-section {
@@ -30,6 +31,7 @@
 	color: #999;
 }
 
+/*========Post Content========*/
 .homepage .post {
 	margin-top: 0;
 	padding-top: 0;
@@ -48,6 +50,14 @@
 	text-decoration: underline;
 }
 
+/*========Menu========*/
 .menu__inner a {
 	font-weight: 700;
+}
+
+/*========For Phone========*/
+@media(max-width: 684px) {
+	.avatar img {
+		max-width: 200px;
+	}
 }
