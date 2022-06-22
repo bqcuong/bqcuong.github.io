@@ -14,10 +14,10 @@ Currently, I am a Ph.D. student in the [Institute of Software Security](https://
 ## Publications
 1. {{<em text="[ISSTA'22]">}} **Maestro: A Platform for Benchmarking Automatic Program Repair Tools on Software Vulnerabilities.**  
 Eduard Pinconschi, **Quang-Cuong Bui**, Rui Abreu, Pedro Adão, Riccardo Scandariato  
-*International Symposium on Software Testing and Analysis, 2022* {{<em text="(to appear)">}} [PDF][[Project]](https://github.com/epicosy/nexus)
+*International Symposium on Software Testing and Analysis, 2022*  {{<em text="(to appear)">}} [PDF][[Project]](https://github.com/epicosy/nexus)
 
 2. {{<em text="[MSR'22]">}} **Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques.**  
 **Quang-Cuong Bui**, Riccardo Scandariato, Nicolas Diaz Ferreyra  
-*International Conference on Mining Software Repositories, 2022* {{<em text="(Best Data and Tool Showcase Paper Award)">}} [[PDF]](./papers/msr22.pdf)[[Slides]](https://www.youtube.com/watch?v=EML84ZSFuvQ)[[Dataset]](https://github.com/bqcuong/vul4j)
+*International Conference on Mining Software Repositories, 2022*  {{<em text="(Best Data and Tool Showcase Paper Award)">}} [[PDF]](./papers/msr22.pdf)[[Slides]](https://www.youtube.com/watch?v=EML84ZSFuvQ)[[Dataset]](https://github.com/bqcuong/vul4j)
 
 {{<inline-audio-script>}}
