@@ -10,7 +10,7 @@
 }
 
 .avatar img {
-	max-width: 250px;
+	max-width: 220px;
 }
 
 .avatar-section {
@@ -28,7 +28,9 @@
 }
 
 .subtext {
-	color: #999;
+	color: #777;
+	margin-top: 25px;
+	margin-bottom: 20px;
 }
 
 /*========Post Content========*/
