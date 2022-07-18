@@ -11,6 +11,7 @@
 
 .avatar img {
 	max-width: 220px;
+	box-shadow: none !important;
 }
 
 .avatar-section {
@@ -29,7 +30,6 @@
 
 .subtext {
 	color: #777;
-	margin-top: 25px;
 	margin-bottom: 20px;
 }
 
