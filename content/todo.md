@@ -5,7 +5,9 @@ title="To-Do List"
 The following is my bucket list for side tasks/projects.
 
 ### Todo
-- [ ] 10/2022: Learn Machine Learning, fundamental course
+- [ ] 07/2023: Write an App for my groceries, publish it to the stores if possible
+- [ ] 04/2023: Learn Data Engineering Zoomcamp
+- [ ] 05/2023: Learn Machine Learning, fundamental course
   - Waiting for new course of Andrew Ng :)
   - The course with three modules are available now (08/2022)
 - [ ] 2022: Learn Haskell
