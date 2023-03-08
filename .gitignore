@@ -1,4 +1,5 @@
 /resources/_gen/
+public/
 
 .DS_Store
 node_modules
