@@ -1,8 +1,13 @@
 +++
-title="To-Do List"
+title=""
 +++
 
-The following is my bucket list for side tasks/projects.
+*This page is kinda a "secret" place where I write down and track my daily/long-term tasks.
+Congratulations if you luckily found it! :).*
+
+---
+## To-Do tasks
+The following is my bucket list for my side tasks/projects.
 
 ### Todo
 - [ ] 07/2023: Write an App for my groceries, publish it to the stores if possible
@@ -23,3 +28,9 @@ The following is my bucket list for side tasks/projects.
 - [x] 07/2022: Komplett Deutsch A1.1
   - I have to learn it by myself, the school doesn't offer A1.1, so sad :(
   - I finally registered the A1.1 course in 04/2022
+
+---
+## Useful links
+
+- [eZeit Timekeeping](https://ezeit-ess.hamburg.de/ESS-IDS/)
+- [Register TUHH - VHS languague courses](https://www.tuhh.de/tuhh/studium/im-studium/sprachen-lernen/sprachkurse-in-kooperation-mit-der-vhs) 
