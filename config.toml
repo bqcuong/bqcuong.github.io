@@ -1,5 +1,5 @@
 baseURL = "https://cuong.buiquang.com"
-title   = "BUI Quang Cuong"
+title   = "Quang-Cuong Bui"
 languageCode = "en-us"
 theme = "hfng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Bui Quang Cuong"
+  name = "Quang-Cuong Bui"
 
 [blackfriday]
   hrefTargetBlank = true
