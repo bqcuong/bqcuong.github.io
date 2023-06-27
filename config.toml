@@ -164,6 +164,18 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/"
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "cv/"
+  [[menu.main]]
+    identifier = "pubs"
+    name       = "Publications"
+    url        = "pubs/"
+  [[menu.main]]
     identifier = "blog"
-    name       = "BLOG"
+    name       = "Blog"
     url        = "blog/"
