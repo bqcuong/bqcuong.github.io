@@ -13,9 +13,12 @@ title="Publications"
 * {{<em text="[ISSTA'22]">}} **Maestro: A Platform for Benchmarking Automatic Program Repair Tools on Software Vulnerabilities.**
 Eduard Pinconschi, *Quang-Cuong Bui*, Rui Abreu, Pedro Adão, Riccardo Scandariato.
 The 31st International Symposium on Software Testing and Analysis, 2022.
-([PDF](/papers/issta22.pdf) | [Project](https://github.com/epicosy/nexus))
+([PDF](/papers/issta22.pdf) | [Code](https://github.com/epicosy/nexus))
 
 * {{<em text="[MSR'22]">}} **Vul4J: A Dataset of Reproducible Java Vulnerabilities Geared Towards the Study of Program Repair Techniques.**
 *Quang-Cuong Bui*, Riccardo Scandariato, Nicolas Diaz Ferreyra.
-The 19th International Conference on Mining Software Repositories, 2022.
-([PDF](/papers/msr22.pdf) | [Dataset](https://github.com/tuhh-softsec/vul4j) | [Slides](https://www.youtube.com/watch?v=EML84ZSFuvQ))
+The 19th International Conference on Mining Software Repositories, 2022, with **Best Data and Tool Showcase Paper Award**.
+([PDF](/papers/msr22.pdf) | [Code](https://github.com/tuhh-softsec/vul4j))
+
+# Presentations
+* Talk at [MSR 2022](https://www.youtube.com/watch?v=EML84ZSFuvQ) for my Vul4J paper, May 2022.

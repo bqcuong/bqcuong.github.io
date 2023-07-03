@@ -177,3 +177,10 @@ disableHugoGeneratorInject = false
     identifier = "blog"
     name       = "Blog"
     url        = "blog/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
