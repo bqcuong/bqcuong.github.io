@@ -116,9 +116,7 @@ disableHugoGeneratorInject = false
     author = true
 
     topText = []
-    bottomText = [
-      "Customized theme from <a href=\"https://github.com/rhazdon\">rhazdon</a>"
-    ]
+    bottomText = []
 
   # Colors for favicons
   #
