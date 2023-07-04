@@ -1,3 +1,8 @@
+/*========Global========*/
+body {
+	font-weight: 400;
+}
+
 /*========Portfolio========*/
 .portfolio {
 	display: flex;
@@ -52,7 +57,7 @@
 .post-content .em {
 	color: #fe5186;
 	display: inline;
-	font-weight: 600;
+	font-weight: bolder;
 }
 
 .post-content a:hover {
