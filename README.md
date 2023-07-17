@@ -1,5 +1,4 @@
-# bqcuong.github.io
-
+# cuong.buiquang.com / bqcuong.github.io
 ## Install Hugo
 ```
 $ brew install hugo
