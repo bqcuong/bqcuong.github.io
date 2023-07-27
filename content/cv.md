@@ -27,6 +27,6 @@ Research Assisant and Ph.D. student, [Institute of Software Security](https://ww
 - **Knowledge:** Program Analysis, Software Security, Program Testing, Machine Learning
 
 ## Honors & Awards
-- **[ITPEC Ambassador](https://itpec.org/news/20180228.html), Japan**, 2018
+- **ITPEC Ambassador, Japan**, 2018
 - **Pony Chung Scholarship Award, Korean**, 2017
 - **Various scholarships for excellent academic performance** at VNU - UET.
