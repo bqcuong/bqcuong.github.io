@@ -4,7 +4,7 @@ toc=true
 +++
 
 ## Current Occupiation
-Ph.D. student and Research Associate, [Institute of Software Security](https://www.tuhh.de/softsec/), Hamburg University of Technology, Germany.
+Ph.D. Student and Research Associate, [Institute of Software Security](https://www.tuhh.de/softsec/), Hamburg University of Technology, Germany.
 
 ## Work Experiences
 | Year                | Description |
