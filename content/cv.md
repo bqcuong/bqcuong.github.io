@@ -4,12 +4,12 @@ toc=true
 +++
 
 ## Current Occupiation
-Research Assisant and Ph.D. student, [Institute of Software Security](https://www.tuhh.de/softsec/), Hamburg University of Technology, Germany.
+Ph.D. student and Research Associate, [Institute of Software Security](https://www.tuhh.de/softsec/), Hamburg University of Technology, Germany.
 
 ## Work Experiences
 | Year                | Description |
 | ------------------- | -------------------------------------- |
-| 03.2021 - now | **Research Assistant/Teaching Assistant at Hamburg University of Technology**. <br/>- Research about automated repair for software vulnerabilities. <br/>- Teaching courses: Software Security, Secure Software Engineering, IIW Praktikum. |
+| 03.2021 - now | **Research Associate at Hamburg University of Technology**. <br/>- Research about automated repair for software vulnerabilities. <br/>- Teaching courses: Software Security, Secure Software Engineering, IIW Praktikum. |
 | 08.2018 - 02.2021 | **Research Assistant/Teaching Assistant at Vietnam National University, Hanoi**. <br/>- Research about Change Impact Analysis for JavaEE and Struts, Parallelization Suggestion for Automotive Software, Lightweight Program Analysis for Grading OOP Exercises. <br/>- Teaching courses: Introduction to Software Engineering, Object-oriented Programming, Computer Network, Fundamental Informatics, Advanced Programming with C++. |
 | 06.2020 - 10.2020 | **Student Participant at Google Summer of Code**. <br/>Develop a program repair tool for Java regression bugs. |
 | 06.2018 - 12.2020 | **Freelancer for Mobile Game Developement**. <br/>Develop online/offline games for global markets with Unity 2D and Cocos Creator. Target platforms: iOS App Store, Google Play Store, FB Instant Games.|
