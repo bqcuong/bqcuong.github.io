@@ -7,7 +7,8 @@ title="Publications"
 ## 2023
 * <span class="em">[ICSME'23]</span> **DockerCleaner: Automatic Repair of Security Smells in Dockerfiles**.
   *Quang-Cuong Bui*, Malte Laukötter, Riccardo Scandariato.
-  The 39th International Conference on Software Maintenance and Evolution, 2023. <span class="em">To Appear</span>.
+  The 39th International Conference on Software Maintenance and Evolution, 2023.
+  ([Preprint](/papers/icsme23.pdf) | [Code](https://github.com/tuhh-softsec/DockerCleaner))
 
 ## 2022
 * <span class="em">[ISSTA'22]</span> **Maestro: A Platform for Benchmarking Automatic Program Repair Tools on Software Vulnerabilities.**
