@@ -1,50 +1,57 @@
+@import url('https:/../fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic');
+
 @font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-display: auto;
+  font-family: 'Century Supra T4';
+  src: url('../fonts/CenturySupra/CenturySupraT4.woff2') format('woff2'),
+  url('../fonts/CenturySupra/CenturySupraT4.woff') format('woff');
   font-weight: 400;
-  src: url("../fonts/Inter-Regular.woff2") format("woff2"),
-       url("../fonts/Inter-Regular.woff") format("woff");
-}
-@font-face {
-  font-family: 'Inter';
-  font-style:  italic;
-  font-display: auto;
-  font-weight: 400;
-  src: url("../fonts/Inter-Italic.woff2") format("woff2"),
-       url("../fonts/Inter-Italic.woff") format("woff");
+  font-style: normal;
 }
 
 @font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-display: auto;
-  font-weight: 600;
-  src: url("../fonts/Inter-Medium.woff2") format("woff2"),
-       url("../fonts/Inter-Medium.woff") format("woff");
-}
-@font-face {
-  font-family: 'Inter';
-  font-style:  italic;
-  font-display: auto;
-  font-weight: 600;
-  src: url("../fonts/Inter-MediumItalic.woff2") format("woff2"),
-       url("../fonts/Inter-MediumItalic.woff") format("woff");
+  font-family: 'Century Supra T4';
+  src: url('../fonts/CenturySupra/CenturySupraT4-Bold.woff2') format('woff2'),
+  url('../fonts/CenturySupra/CenturySupraT4-Bold.woff') format('woff');
+  font-weight: 800;
+  font-style: bold;
 }
 
 @font-face {
-  font-family: 'Inter';
-  font-style:  normal;
-  font-display: auto;
-  font-weight: 800;
-  src: url("../fonts/Inter-Bold.woff2") format("woff2"),
-       url("../fonts/Inter-Bold.woff") format("woff");
+  font-family: 'Century Supra T4';
+  src: url('../fonts/CenturySupra/CenturySupraT4-Italic.woff2') format('woff2'),
+  url('../fonts/CenturySupra/CenturySupraT4-Italic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
 }
+
 @font-face {
-  font-family: 'Inter';
-  font-style:  italic;
-  font-display: auto;
+  font-family: 'Concourse T6';
+  src: url('../fonts/Concourse/Concourse T6 Regular.woff2') format('woff2'),
+  url('../fonts/Concourse/Concourse T6 Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Concourse T4';
+  src: url('../fonts/Concourse/Concourse T4 Regular.woff2') format('woff2'),
+  url('../fonts/Concourse/Concourse T4 Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Concourse T2';
+  src: url('../fonts/Concourse/Concourse T2 Regular.woff2') format('woff2'),
+  url('../fonts/Concourse/Concourse T2 Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Concourse T2';
+  src: url('../fonts/Concourse/Concourse T2 Bold.woff2') format('woff2'),
+  url('../fonts/Concourse/Concourse T2 Bold.woff2') format('woff2');
   font-weight: 800;
-  src: url("../fonts/Inter-BoldItalic.woff2") format("woff2"),
-       url("../fonts/Inter-BoldItalic.woff") format("woff");
+  font-style: normal;
 }

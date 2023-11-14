@@ -35,7 +35,6 @@ body {
 }
 
 .subtext {
-	color: #777;
 	margin-bottom: 20px;
 }
 
@@ -62,11 +61,6 @@ body {
 
 .post-content a:hover {
 	text-decoration: underline;
-}
-
-/*========Menu========*/
-.menu__inner a {
-	font-weight: 700;
 }
 
 /*========For Phone========*/
