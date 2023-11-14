@@ -231,3 +231,17 @@
     margin-right: 8px;
   }
 }
+
+.post details {
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+  [data-theme=dark] & {
+    background: $dark-background-secondary;
+  }
+
+  [data-theme=light] & {
+    background: $light-background-secondary;
+  }
+}
