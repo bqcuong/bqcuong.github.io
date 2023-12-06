@@ -7,7 +7,8 @@ title="Publications"
 ## 2023
 * <span class="em">[EMSE'23]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
   <br/><u>Quang-Cuong Bui</u>, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato.
-  <br/>Empirical Software Engineering (To Appear).
+  <br/>Empirical Software Engineering, Volume 29, Issue 1.
+  <br/>([DOI](https://doi.org/k7r8) | [PDF](/papers/emse23.pdf) | [Code](https://github.com/tuhh-softsec/apr4vul))
 
 * <span class="em">[ICSME'23]</span> **DockerCleaner: Automatic Repair of Security Smells in Dockerfiles**.
   <br/><u>Quang-Cuong Bui</u>, Malte Laukötter, Riccardo Scandariato.
