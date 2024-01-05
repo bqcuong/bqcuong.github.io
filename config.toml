@@ -55,7 +55,7 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Software Vulnerability Gossiper"
+  description = ""
   keywords = ""
   images = [""]
 
@@ -156,7 +156,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Software Vulnerability Gossiper"
+    subtitle  = ""
     weight    = 1
     copyright = ''
 
