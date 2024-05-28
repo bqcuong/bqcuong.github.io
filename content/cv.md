@@ -22,7 +22,7 @@ Ph.D. Student and Research Associate, [Institute of Software Security](https://w
 | 08.2014 - 06.2018 | BSc. in Information Technology, The VNU University of Engineering and Technology. <br/>**Thesis Topic:** Building Tool Supporting for Managing and Quality Assuring of Software Versions. |
 
 ## Skills
-- **Languages:** Java, Python, SQL, Bash, Javascript, C#, Scala, Haskell
+- **Languages:** Java, Python, SQL, Bash, Javascript, C#, Scala
 - **Technologies:** Spring Framework, Docker, GCP, Prefect, Kafka, Unity 2D, Cocos Creator
 - **Knowledge:** Program Analysis, Software Security, Program Testing, Machine Learning
 
