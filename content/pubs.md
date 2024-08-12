@@ -2,7 +2,7 @@
 title="Publications"
 +++
 
-[Google Scholar](https://scholar.google.com/citations?user=RgxTMKwAAAAJ) | [DBLP](https://dblp.org/pid/287/6699.html)
+[Google Scholar](https://scholar.google.com/citations?user=RgxTMKwAAAAJ&sortby=pubdate) | [DBLP](https://dblp.org/pid/287/6699.html)
 
 ## 2023
 * <span class="em">[EMSE'23]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
