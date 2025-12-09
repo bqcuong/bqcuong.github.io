@@ -9,12 +9,15 @@ title="Publications"
   <br/><u>Quang-Cuong Bui</u>, Emanuele Iannone, Riccardo Scandariato.
   <br/>The 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. Acceptance Rate: 23%.
   <br/><em>Just Accepted.</em>
-## 2023
-* <span class="em">[EMSE'23]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
+
+## 2024
+* <span class="em">[EMSE-ICSE'24]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
   <br/><u>Quang-Cuong Bui</u>, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato.
   <br/>Empirical Software Engineering, Volume 29, Issue 1.
+  <br/><em>Accepted at Journal-first Track at ICSE, 2024</em>
   <br/>([DOI](https://doi.org/k7r8) | [PDF](/papers/emse23.pdf) | [Code](https://github.com/tuhh-softsec/apr4vul))
 
+## 2023
 * <span class="em">[ICSME'23]</span> **DockerCleaner: Automatic Repair of Security Smells in Dockerfiles**.
   <br/><u>Quang-Cuong Bui</u>, Malte Laukötter, Riccardo Scandariato.
   <br/>The 39th International Conference on Software Maintenance and Evolution, 2023. Acceptance Rate: 23%.
