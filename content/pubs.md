@@ -4,6 +4,11 @@ title="Publications"
 
 [Google Scholar](https://scholar.google.com/citations?user=RgxTMKwAAAAJ&sortby=pubdate) | [DBLP](https://dblp.org/pid/287/6699.html)
 
+## 2026
+* <span class="em">[SANER'26]</span> **VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities**.
+  <br/><u>Quang-Cuong Bui</u>, Emanuele Iannone, Riccardo Scandariato.
+  <br/>The 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. Acceptance Rate: 23%.
+  <br/>Just Accepted.
 ## 2023
 * <span class="em">[EMSE'23]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
   <br/><u>Quang-Cuong Bui</u>, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato.
@@ -12,7 +17,7 @@ title="Publications"
 
 * <span class="em">[ICSME'23]</span> **DockerCleaner: Automatic Repair of Security Smells in Dockerfiles**.
   <br/><u>Quang-Cuong Bui</u>, Malte Laukötter, Riccardo Scandariato.
-  <br/>The 39th International Conference on Software Maintenance and Evolution, 2023.
+  <br/>The 39th International Conference on Software Maintenance and Evolution, 2023. Acceptance Rate: 23%.
   <br/>([DOI](https://doi.org/k84r) | [PDF](/papers/icsme23.pdf) | [Code](https://github.com/tuhh-softsec/DockerCleaner))
 
 ## 2022
