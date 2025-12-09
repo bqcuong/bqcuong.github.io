@@ -8,7 +8,7 @@ title="Publications"
 * <span class="em">[SANER'26]</span> **VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities**.
   <br/><u>Quang-Cuong Bui</u>, Emanuele Iannone, Riccardo Scandariato.
   <br/>The 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. Acceptance Rate: 23%.
-  <br/>Just Accepted.
+  <br/><em>Just Accepted.</em>
 ## 2023
 * <span class="em">[EMSE'23]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
   <br/><u>Quang-Cuong Bui</u>, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato.
