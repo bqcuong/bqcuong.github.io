@@ -2,7 +2,7 @@
 title="Publications"
 +++
 
-[Google Scholar](https://scholar.google.com/citations?user=RgxTMKwAAAAJ&sortby=pubdate) | [DBLP](https://dblp.org/pid/287/6699.html)
+[Google Scholar](https://scholar.google.com/citations?user=RgxTMKwAAAAJ&sortby=pubdate) | [DBLP](https://dblp.org/pid/287/6699.html) | [Researchr](https://conf.researchr.org/profile/quangcuongbui)
 
 ## 2026
 * <span class="em">[SANER'26]</span> **VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities**.
@@ -14,7 +14,7 @@ title="Publications"
 * <span class="em">[EMSE-ICSE'24]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
   <br/><u>Quang-Cuong Bui</u>, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato.
   <br/>Empirical Software Engineering, Volume 29, Issue 1.
-  <br/><em>Accepted at Journal-first Track at ICSE, 2024</em>
+  <br/><em>Accepted in Journal-first Track at ICSE, 2024</em>
   <br/>([DOI](https://doi.org/k7r8) | [PDF](/papers/emse23.pdf) | [Code](https://github.com/tuhh-softsec/apr4vul))
 
 ## 2023
@@ -38,3 +38,10 @@ title="Publications"
 * Talk at [ICSE 2024](/presentations/icse24_presentation.pdf) for my APR4Vul paper, April 2024 (Lisbon, Portugal).
 * Talk at [ICSME 2023](/presentations/icsme23_presentation.pdf) for my DockerCleaner paper, Oct 2023 (Bogota, Colombia).
 * Talk at [MSR 2022](https://www.youtube.com/watch?v=EML84ZSFuvQ) for my Vul4J paper, May 2022 (Virtually).
+
+# Academic Services
+### Sub-/Reviewer
+* Journal: TOSEM, ASEJ, SCICO
+* Conferences & Workshops: SVM@ICSE'26, APR@ICSE'25, MSR4P&S@SANER'25, KSE'25, SANER'24, SECUTE@EASE'24
+### Student Volunteer
+* ATVA'20, ICTAC'17
