@@ -41,7 +41,7 @@ title="Publications"
 
 # Academic Services
 ### Sub-/Reviewer
-* Journal: TOSEM, ASEJ, SCICO
+* Journals: TOSEM, ASEJ, SCICO
 * Conferences & Workshops: SVM@ICSE'26, APR@ICSE'25, MSR4P&S@SANER'25, KSE'25, SANER'24, SECUTE@EASE'24
 ### Student Volunteer
 * ATVA'20, ICTAC'17
