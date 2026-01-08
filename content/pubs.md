@@ -18,7 +18,7 @@ title="Publications"
 * <span class="em">[EMSE-ICSE'24]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
   <br/><u>Quang-Cuong Bui</u>, Ranindya Paramitha, Duc-Ly Vu, Fabio Massacci, Riccardo Scandariato.
   <br/>Empirical Software Engineering, Volume 29, Issue 1.
-  <br/><em>Accepted in Journal-first Track at ICSE, 2024</em>
+  <br/><em>Accepted in Journal-first Track at ICSE, 2024.</em>
   <br/>([DOI](https://doi.org/k7r8) | [PDF](/papers/emse23.pdf) | [Code](https://github.com/tuhh-softsec/apr4vul))
 
 ## 2023
