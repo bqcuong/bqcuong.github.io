@@ -9,7 +9,10 @@ title="Quang-Cuong Bui"
 <details>
     <summary><strong>News</strong></summary>
     <div class="news-content"><ul>
-        <li><strong>[04/2024]</strong> I will present our work APR4Vul as Journal-first at ICSE, Lisbon.</li>
+        <li><strong>[03/2026]</strong> I will present our work VulTerminator at SANER, Limassol.</li>
+        <li><strong>[01/2026]</strong> Our paper on Security Test Retrieval got accepted to SANER.</li>
+        <li><strong>[12/2025]</strong> Our paper on Vulnerability Repair got accepted to SANER.</li>
+        <li><strong>[04/2024]</strong> I presented our work APR4Vul as Journal-first at ICSE, Lisbon.</li>
         <li><strong>[10/2023]</strong> Our paper on APR Evaluation got accepted to EMSE.</li>
         <li><strong>[10/2023]</strong> I presented our work DockerCleaner at ICMSE, Bogotá.</li>
         <li><strong>[07/2023]</strong> I attended the <a href="https://seschool-series.github.io/2023/">ISE</a> summer school in Bolzano.</li>
