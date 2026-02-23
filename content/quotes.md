@@ -11,6 +11,6 @@ title="Quotes"
 > --- **[Jeff Bezos](https://youtu.be/SQHmeRIhNtw)**
 
 * 05.2013:
-> *"The life's a bed of roses. To see rainbow, you must endure the rain!"*
+> *"The life isn't a bed of roses. To see rainbow, you must endure the rain!"*
 > 
 > --- **[BQC](https://www.slideshare.net/slideshow/c-bn-tnh-cht-vt-l-p-c-trng-iu-ch-ng-dng-cc-hchc/67737129)**
