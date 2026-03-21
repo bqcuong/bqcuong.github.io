@@ -5,14 +5,15 @@ title="Publications"
 [Google Scholar](https://scholar.google.com/citations?user=RgxTMKwAAAAJ&sortby=pubdate) | [DBLP](https://dblp.org/pid/287/6699.html) | [Researchr](https://conf.researchr.org/profile/quangcuongbui)
 
 ## 2026
-* <span class="em">[MSR'26]</span> **A Match Made in Heaven? AI-driven Matching of Vulnerabilities  and Security Unit Tests.**
-  <br/>Emanuele Iannone, <u>Quang-Cuong Bui</u>, Riccardo Scandariato.
-  <br/>The 23rd International Conference on Mining Software Repositories, 2026.
-  <br/><em>Just Accepted.</em>
 * <span class="em">[SANER'26]</span> **VulTerminator: Bringing Back Template-Based Automated Repair for Fixing Java Vulnerabilities**.
   <br/><u>Quang-Cuong Bui</u>, Emanuele Iannone, Riccardo Scandariato.
   <br/>The 33rd International Conference on Software Analysis, Evolution and Reengineering, 2026. Acceptance Rate: 23%.
-  <br/><em>Just Accepted.</em>
+  <br/>([DOI](https://doi.org/) | [PDF](/papers/saner26.pdf) | [Code](https://github.com/tuhh-softsec/vulterminator))
+
+* <span class="em">[MSR'26]</span> **A Match Made in Heaven? AI-driven Matching of Vulnerabilities  and Security Unit Tests.**
+  <br/>Emanuele Iannone, <u>Quang-Cuong Bui</u>, Riccardo Scandariato.
+  <br/>The 23rd International Conference on Mining Software Repositories, 2026.
+  <br/>([DOI](https://doi.org/) | [PDF](/papers/msr26.pdf) | [Code](https://github.com/tuhh-softsec/vuteco))
 
 ## 2024
 * <span class="em">[EMSE-ICSE'24]</span> **APR4Vul: An empirical study of automatic program repair techniques on real-world Java vulnerabilities**.
