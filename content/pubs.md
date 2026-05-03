@@ -40,9 +40,10 @@ title="Publications"
   <br/>([DOI](https://doi.org/kx4q) | [PDF](/papers/msr22.pdf) | [Code](https://github.com/tuhh-softsec/vul4j))
 
 # Presentations
-* Talk at [ICSE 2024](/presentations/icse24_presentation.pdf) for my APR4Vul paper, April 2024 (Lisbon, Portugal).
-* Talk at [ICSME 2023](/presentations/icsme23_presentation.pdf) for my DockerCleaner paper, Oct 2023 (Bogota, Colombia).
-* Talk at [MSR 2022](https://www.youtube.com/watch?v=EML84ZSFuvQ) for my Vul4J paper, May 2022 (Virtually).
+* Talk at [SANER 2026](/presentations/saner26_presentation.pdf) for my VulTerminator work, March 2026 (Limassol, Cyprus).
+* Talk at [ICSE 2024](/presentations/icse24_presentation.pdf) for my APR4Vul work, April 2024 (Lisbon, Portugal).
+* Talk at [ICSME 2023](/presentations/icsme23_presentation.pdf) for my DockerCleaner work, Oct 2023 (Bogota, Colombia).
+* Talk at [MSR 2022](https://www.youtube.com/watch?v=EML84ZSFuvQ) for my Vul4J work, May 2022 (Virtually).
 
 # Academic Services
 ### Sub-/Reviewer
